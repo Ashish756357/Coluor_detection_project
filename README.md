@@ -1,4 +1,4 @@
-# Coluor_detection_project
+# Colour_detection_project
 Problem Statement
 
    Sam has been given a project to renovate a building and he needs a program
